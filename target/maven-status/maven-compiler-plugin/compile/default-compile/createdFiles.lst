@@ -1,0 +1,5 @@
+com\StrideFootwear\controller\UserController.class
+com\StrideFootwear\controller\CategoryController.class
+com\StrideFootwear\controller\HomeController.class
+com\StrideFootwear\controller\ProductAddminController.class
+com\StrideFootwear\controller\SupplierController.class
